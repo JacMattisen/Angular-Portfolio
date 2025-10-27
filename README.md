@@ -1,4 +1,4 @@
-![Screenshot](src/assets/img/bildschirm-portfolio.png)
+![Screenshot](src/assets/img/Bildschirm-portfolio.png)
 
 ### 🧾 About this project
 
