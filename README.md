@@ -1,27 +1,81 @@
-# PortfolioA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
 
-## Development server
+### 🧾 About this project  
+This is my **curriculum portfolio** built with **Angular** 🚀.  
+In this project, I showcase my skills, experience, projects, and contact information in a visual and interactive way.  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> ⚙️ **Status:** Constantly evolving!  
+> This portfolio is **still under construction** and will be **continuously updated** with my main completed projects and new professional experiences.  
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 💡 Why this portfolio?  
+I believe that presenting my work in an organized and visual way is essential to highlight my skills.  
+This project shows not only *what* I do, but *how* I do it — with attention to detail and a focus on user experience.  
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 📬 Contact  
+If you’d like to learn more or get in touch, feel free to contact me! 😊  
 
-## Running unit tests
+---
+### ✨ Main features  
+- 📱 Responsive layout for desktop, tablet, and mobile  
+- 🧭 Simple and clear navigation  
+- 📂 Dedicated sections: About Me, Skills, Projects, Contact  
+- 🧩 Use of components and Angular best practices  
+- 🎨 Clean and professional design  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+### 🛠️ Technologies used  
+- **Angular** (version used in this project)  
+- **HTML5 & CSS3**  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+
+# 💼 Portfolio Angular
+
+## 🇧🇷 Português  
+
+### 🧾 Sobre este projeto  
+Este é o meu **portfólio de currículo** construído com **Angular** 🚀.  
+Neste projeto, apresento minhas habilidades, experiência, projetos e informações de contato de maneira visual e interativa.  
+
+> ⚙️ **Status:** Em constante evolução!  
+> Este portfólio **ainda está em construção** e será **continuamente atualizado** com meus principais projetos e novas experiências profissionais.  
+
+---
+
+### ✨ Funcionalidades principais  
+- 📱 Layout responsivo para desktop, tablet e celular  
+- 🧭 Navegação simples e clara  
+- 📂 Seções dedicadas: Sobre mim, Habilidades, Projetos, Contato  
+- 🧩 Uso de componentes e boas práticas do Angular  
+- 🎨 Estilo limpo e profissional  
+
+---
+
+### 🛠️ Tecnologias utilizadas  
+- **Angular** (versão utilizada no projeto)  
+- **HTML5 & CSS3**  
+
+---
+
+### 💡 Por que este portfólio?  
+Acredito que apresentar meu trabalho de forma organizada e visual é essencial para destacar minhas competências.  
+Este projeto mostra não apenas *o que* faço, mas *como* faço — com atenção aos detalhes e foco na experiência do usuário.  
+
+---
+
+### 📬 Contato  
+Se quiser saber mais ou conversar sobre algo, fique à vontade para entrar em contato! 😊  
+
+---
+
+
+
