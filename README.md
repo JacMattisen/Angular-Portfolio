@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ![Screenshot](src/assets/img/bildschirm-portfolio.png)
 
 ### 🧾 About this project
+=======
+![Screen](src/assets/img/bildschirm-portfolio.png)
+>>>>>>> db319e10dd31280c1ec98803e257f6092a8132fc
 
 This is my **curriculum portfolio** built with **Angular** 🚀.  
 In this project, I showcase my skills, experience, projects, and contact information in a visual and interactive way.
