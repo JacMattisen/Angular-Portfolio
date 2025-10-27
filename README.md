@@ -1,4 +1,4 @@
-![Screenshot](src/assets/img/Bildschirm-portfolio.png)
+![Screenshot](https://raw.githubusercontent.com/JacMattisen/Angular-Portfolio/main/src/assets/img/Bildschirm-portfolio.png)
 
 ### 🧾 About this project
 
