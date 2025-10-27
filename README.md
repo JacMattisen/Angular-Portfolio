@@ -1,4 +1,4 @@
-
+![Screen](src/assets/img/bildschirm-portfolio.png)
 
 ### 🧾 About this project  
 This is my **curriculum portfolio** built with **Angular** 🚀.  
