@@ -35,10 +35,17 @@ If you’d like to learn more or get in touch, feel free to contact me! 😊
 
 ### 🛠️ Technologies used
 
-- **Angular** (version used in this project)
-- **HTML5 & CSS3**
+- **Angular** (17.3.17)
+- **HTML5 & SCSS**
+- **Typescript**
 
 ---
+
+## 🌐 Visit the site
+
+The portfolio is hosted on **Vercel**:
+
+👉 [Angular Portfolio on Vercel](https://angular-portfolio-3mtmn2yb4-jacqueline-mattisens-projects.vercel.app/)
 
 ---
 
@@ -68,8 +75,9 @@ Neste projeto, apresento minhas habilidades, experiência, projetos e informaç�
 
 ### 🛠️ Tecnologias utilizadas
 
-- **Angular** (versão utilizada no projeto)
-- **HTML5 & CSS3**
+- **Angular** (17.3.17)
+- **HTML5 & SCSS**
+- **Typescript**
 
 ---
 
@@ -85,3 +93,9 @@ Este projeto mostra não apenas _o que_ faço, mas _como_ faço — com atençã
 Se quiser saber mais ou conversar sobre algo, fique à vontade para entrar em contato! 😊
 
 ---
+
+## 🌐 Acesse o site
+
+O portfólio está hospedado na **Vercel**:
+
+👉 [Angular Portfolio na Vercel](https://angular-portfolio-3mtmn2yb4-jacqueline-mattisens-projects.vercel.app/)
